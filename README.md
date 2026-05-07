@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Building production-ready AI systems and developer tools<br><br>👯 Open to collaborating on AI, automation, and backend infrastructure projects<br><br>🤝 Looking to learn from engineers building scalable products<br><br>🌱 Currently diving deeper into LLM engineering, system design, and AI infrastructure<br><br>💬 Ask me about Python, ML, backend development, and shipping fast<br><br>⚡ Turning ideas into working systems > endlessly consuming tutorials.
+🔭 Building production-ready AI systems and developer tools<br><br>👯 Open to collaborating on AI, automation, and backend infrastructure projects<br><br>🤝 Looking to learn from engineers building scalable products<br><br>🌱 Currently diving deeper into LLM engineering, system design, and AI infrastructure<br><br>💬 Ask me about Python, ML, backend development, and shipping fast.<br><br>⚡ Turning ideas into working systems > endlessly consuming tutorials.
 
 
 ## 🌐 Socials:
